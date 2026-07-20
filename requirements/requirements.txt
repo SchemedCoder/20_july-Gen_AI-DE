@@ -1,0 +1,6 @@
+-r base.txt
+-r kafka.txt
+-r spark.txt
+-r snowflake.txt
+-r ai.txt
+-r dev.txt
